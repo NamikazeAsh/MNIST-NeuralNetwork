@@ -46,3 +46,7 @@ The model's performance can be improved with hyperparameter tuning, regularizati
     - Matplotlib
     - scikit-learn
 
+### Confusion Matrix
+![image](https://github.com/user-attachments/assets/a2b8685d-5409-4fc4-aa14-15af3b92f74d)
+
+

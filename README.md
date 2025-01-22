@@ -1,6 +1,7 @@
 # MNIST Neural Network Project
 
 Welcome to the MNIST Neural Network Project! This project demonstrates the power of deep learning by training a neural network on the famous MNIST dataset to recognize handwritten digits.
+![image](https://github.com/user-attachments/assets/14938873-c1d7-4ec4-b52a-a11a61968259)
 
 ## Project Overview
 The goal of this project is to build and evaluate a neural network capable of classifying handwritten digits from the MNIST dataset. By training the model on thousands of images, the neural network learns to distinguish between the digits 0-9. This project explores various deep learning concepts, including data preprocessing, model evaluation, and optimization techniques.
